@@ -3,6 +3,7 @@ import HomePage from "./pages/HomePage"
 import Layout from "./layouts/Layout"
 
 function App() {
+
   return (
     <BrowserRouter>
       <Routes>
